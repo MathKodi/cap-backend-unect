@@ -1,0 +1,20 @@
+{
+  "name": "backend-cap-unect",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./index.js localhost 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "moment": "^2.30.1",
+    "mongoose": "^8.13.1",
+    "nodemon": "^3.1.9"
+  }
+}
